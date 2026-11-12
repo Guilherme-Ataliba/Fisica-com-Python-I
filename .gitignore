@@ -75,6 +75,18 @@ docs/_build/
 # PyBuilder
 .pybuilder/
 target/
+handoffs/
+handoffs/*
+handoffs/.
+docs/
+docs/*
+docs/.
+ops/
+ops/*
+ops/.
+.researchbrain.toml
+AGENTS.md
+
 
 # Jupyter Notebook
 .ipynb_checkpoints
