@@ -234,3 +234,6 @@ __marimo__/
 
 .python-version
 uv.lock
+
+# Ignore subfolders inside Tarefa directories
+/Atividades/Tarefa*/*/
