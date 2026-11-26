@@ -237,3 +237,6 @@ uv.lock
 
 # Ignore subfolders inside Tarefa directories
 /Atividades/Tarefa*/*/
+
+# Local ResearchBrain data
+/.researchbrain/
