@@ -18,4 +18,5 @@ dependencies = [
     "scipy>=1.18.1",
     "seaborn>=0.13.2",
     "ipykernel>=7.4.0",
+    "ordpy>=1.2.3",
 ]
